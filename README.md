@@ -1,5 +1,5 @@
 # Ecommerce de productos electrónicos
-Este proyecto tiene como objetivo explorar y analizar datos de un negocio ecommerce de productos electrónicos utilizando técnicas de análisis de datos, modelado y visualización. Para esto utilizamos un dataset público alojado en Kaggle.com [( link del dataset)](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store), estas son las características más resaltantes del conjunto de datos: 
+Este proyecto tiene como objetivo explorar y analizar datos de un negocio ecommerce de productos electrónicos utilizando técnicas de análisis de datos, modelado y visualización. Para esto utilizamos un dataset público alojado en Kaggle.com [( dataset link)](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store), estas son las características más resaltantes del conjunto de datos: 
 - El archivo contiene datos de comportamiento durante 5 meses (octubre de 2019 – febrero de 2020) de una tienda de electrónica en línea. 
 - Cada fila del archivo representa un evento. Todos los eventos están relacionados con productos y usuarios. recopilados por el proyecto Open CDP. 
 - Para más detalles respecto a la estructura de los campos (columnas) [click aquí.](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store)
