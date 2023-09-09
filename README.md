@@ -19,7 +19,7 @@ Este proyecto tiene como objetivo explorar y analizar datos de un negocio ecomme
 Finalmente, identificaremos las cinco categorías de productos que generaron las mayores ventas durante los dos últimos meses, es decir, en enero y febrero de 2021. Esto puede proporcionar información valiosa sobre qué productos son más populares en ese período.
   
 ## Etapas clave del proceso de análisis de datos de este proyecto:
-### Obtención de Datos desde Kaggle: 
+### [Obtención de Datos desde Kaggle:](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store) 
 Comenzamos por obtener un conjunto de datos público desde Kaggle. Esta información actúa como punto de partida para nuestro análisis y contiene datos relevantes para el negocio.
 
 ### Almacenamiento en AWS S3: 
