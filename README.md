@@ -31,9 +31,12 @@ Utilizamos Python para llevar a cabo un análisis exploratorio de los datos. Est
 ### Modelado y Transformación de Datos en MySQL Server: 
 Los datos se someten a un proceso de modelado y transformación en MySQL Server. Aquí, aplicamos diversas técnicas para limpiar y preparar los datos para su posterior análisis. Este paso es fundamental para garantizar la calidad de los datos.
 
+### Análisis de Datos en MySQL Server: 
+Luego de garantizar la calidad de los datos, analizaremos estos datos para responder las 4 preguntas clave detalladas anteriormente interactuando con el lenguaje MySQL. Este análisis proporciona información esencial para tomar decisiones informadas y estratégicas, permitiendo comprender mejor el rendimiento y el compromiso de los clientes en línea del ecommerce de productos electrónicos.
+
 ### Visualización de Datos en Power BI: 
 Para comunicar los resultados de manera efectiva, utilizamos Power BI para crear visualizaciones interactivas. Estas visualizaciones proporcionarán una representación clara y concisa de los datos, lo que facilitará la comprensión de los hallazgos.
 
 
-En síntesis, este proyecto tiene como objetivo explorar, transformar y visualizar datos para obtener información valiosa que respalde la toma de decisiones en el negocio del sector ecommerce de productos. Además, al alojar el proyecto en GitHub, compartimos tanto el código como la documentación necesaria para que otros puedan aprender y beneficiarse de este proceso de análisis de datos. Además, nuestra interacción con AWS S3 sienta las bases para futuras exploraciones en el ecosistema de AWS.
+En síntesis, este proyecto tiene como objetivo explorar, transformar y visualizar datos para obtener información valiosa que respalde la toma de decisiones en el negocio del sector ecommerce de productos. Además, nuestra interacción con AWS S3 sienta las bases para futuras exploraciones en el ecosistema de AWS.
 
