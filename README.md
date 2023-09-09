@@ -1,11 +1,24 @@
-# project-electronic_product_ecommerce
+# Ecommerce de productos electrónicos
 Este proyecto tiene como objetivo explorar y analizar datos de un negocio ecommerce de productos electrónicos utilizando técnicas de análisis de datos, modelado y visualización. Para esto utilizamos un dataset público alojado en Kaggle.com [( link del dataset)](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store), estas son las características más resaltantes del conjunto de datos: 
 - El archivo contiene datos de comportamiento durante 5 meses (octubre de 2019 – febrero de 2020) de una tienda de electrónica en línea. 
 - Cada fila del archivo representa un evento. Todos los eventos están relacionados con productos y usuarios. recopilados por el proyecto Open CDP. 
 - Para más detalles respecto a la estructura de los campos (columnas) [click aquí.](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store)
 
+## Las 4 preguntas que buscamos responder :
+
+- _**Ventas Mensuales**:_
+  Queremos determinar cuánto se vendió en cada mes durante un período específico, desde septiembre de 2020 hasta febrero de 2021. Esto nos permitirá identificar patrones estacionales en las ventas.
+
+- _**Horario de Mayor Ventas**:_
+  Buscamos conocer a qué hora del día se producen más ventas durante el mismo período. Esto puede ser esencial para la planificación de recursos.
+
+- _**Porcentaje de interacciones de Visitadores Web respecto al total de interacciones**:_
+  Queremos calcular el porcentaje de visitantes web que interactúan de diferentes maneras, como visitas simples, interacciones con el carrito de compras, eliminación de productos del carrito y compras reales. Esto nos ayudará a entender mejor el comportamiento en línea de los visitantes.
+
+- _**Categorías Más Vendidas**:_
+Finalmente, identificaremos las cinco categorías de productos que generaron las mayores ventas durante los dos últimos meses, es decir, en enero y febrero de 2021. Esto puede proporcionar información valiosa sobre qué productos son más populares en ese período.
   
-## El proceso de análisis de datos de este proyecto se divide en varias etapas clave:
+## Etapas clave del proceso de análisis de datos de este proyecto:
 ### Obtención de Datos desde Kaggle: 
 Comenzamos por obtener un conjunto de datos público desde Kaggle. Esta información actúa como punto de partida para nuestro análisis y contiene datos relevantes para el negocio.
 
@@ -21,15 +34,6 @@ Los datos se someten a un proceso de modelado y transformación en MySQL Server.
 ### Visualización de Datos en Power BI: 
 Para comunicar los resultados de manera efectiva, utilizamos Power BI para crear visualizaciones interactivas. Estas visualizaciones proporcionarán una representación clara y concisa de los datos, lo que facilitará la comprensión de los hallazgos.
 
-### Las cuatro preguntas fundamentales que buscamos responder son:
-
-- _**Ventas Mensuales**:_ Queremos determinar cuánto se vendió en cada mes durante un período específico, desde septiembre de 2020 hasta febrero de 2021. Esto nos permitirá identificar patrones estacionales en las ventas.
-
-- _**Horario de Mayor Ventas**:_ Buscamos conocer a qué hora del día se producen más ventas durante el mismo período. Esto puede ser esencial para la planificación de recursos.
-
-- _**Porcentaje de Visitadores Web**:_ Queremos calcular el porcentaje de visitantes web que interactúan de diferentes maneras, como visitas simples, interacciones con el carrito de compras, eliminación de productos del carrito y compras reales. Esto nos ayudará a entender mejor el comportamiento en línea de los visitantes.
-
-- _**Categorías Más Vendidas**:_ Finalmente, identificaremos las cinco categorías de productos que generaron las mayores ventas durante los dos últimos meses, es decir, en enero y febrero de 2021. Esto puede proporcionar información valiosa sobre qué productos son más populares en ese período.
 
 En síntesis, este proyecto tiene como objetivo explorar, transformar y visualizar datos para obtener información valiosa que respalde la toma de decisiones en el negocio del sector ecommerce de productos. Además, al alojar el proyecto en GitHub, compartimos tanto el código como la documentación necesaria para que otros puedan aprender y beneficiarse de este proceso de análisis de datos. Además, nuestra interacción con AWS S3 sienta las bases para futuras exploraciones en el ecosistema de AWS.
 
