@@ -25,7 +25,7 @@ Comenzamos por obtener un conjunto de datos público desde Kaggle. Esta informac
 ### Almacenamiento en AWS S3: 
 Como parte de nuestra iniciativa para conocer los servicios de AWS, creamos un bucket en Amazon S3 para alojar este conjunto de datos. Esto nos permite aprovechar el poder y la escalabilidad de la nube de AWS y nos brinda la oportunidad de explorar sus servicios en el futuro.
 
-### Análisis Exploratorio en Python: 
+### [Análisis Exploratorio en Python:](Analisis_exploratorio.ipynb)
 Utilizamos Python para llevar a cabo un análisis exploratorio de los datos. Esta fase nos permite descubrir patrones, tendencias y relaciones en la información, lo que nos ayudará a entender mejor el funcionamiento del negocio.
 
 ### Modelado y Transformación de Datos en MySQL Server: 
