@@ -13,3 +13,6 @@ Una vez que el bucket esté creado, ábrelo haciendo clic en su nombre. Luego, s
 Finalmente, yaque tenemos el csv alojado publicamente en AWS S3, usaremos la url de este objeto para realizar el análisis exploratorio en python.
 Link del objeto creado:
 https://second-public-bucket-acl-enabled.s3.us-east-2.amazonaws.com/ecommerce_events_history_in_electronic_store.csv
+
+Continuando con el proyecto, proseguimos con:
+## [El Análisis exploratorio usando Python (CLICK AQUÍ)](Analisis_exploratorio.ipynb)
