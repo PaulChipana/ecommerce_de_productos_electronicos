@@ -31,7 +31,7 @@ Utilizamos Python para llevar a cabo un análisis exploratorio de los datos. Est
 ### [Modelado y Transformación de Datos en MySQL Server:](Modelado_y_Transformación_de_Datos_en_MySQL_server.pdf)
 Los datos se someten a un proceso de modelado y transformación en MySQL Server. Aquí, aplicamos diversas técnicas para limpiar y preparar los datos para su posterior análisis. Este paso es fundamental para garantizar la calidad de los datos.
 
-### Análisis de Datos en MySQL Server: 
+### [Análisis de Datos en MySQL Server: ](https://drive.google.com/file/d/1L8pMLmr9CMX1DoMX4A0DS7evLv7hLKvK/view?usp=sharing)
 Luego de garantizar la calidad de los datos, analizaremos estos datos para responder las 4 preguntas clave detalladas anteriormente interactuando con el lenguaje MySQL. Este análisis proporciona información esencial para tomar decisiones informadas y estratégicas, permitiendo comprender mejor el rendimiento y el compromiso de los clientes en línea del ecommerce de productos electrónicos.
 
 ### Visualización de Datos en Power BI: 
