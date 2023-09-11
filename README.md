@@ -23,7 +23,7 @@ Finalmente, identificaremos las cinco categorías de productos que generaron las
 Comenzamos por obtener un conjunto de datos público desde Kaggle. Esta información actúa como punto de partida para nuestro análisis y contiene datos relevantes del contexto del negocio y estructura del dataset que usaremos para este proyecto.
 
 ### [Almacenamiento de objetos en AWS S3:](Almacenamiento_de_objetos_AWS_S3.md) 
-Como parte de nuestra iniciativa para conocer los servicios de AWS (Amazon Web Service), creamos un bucket en Amazon S3 para alojar este conjunto de datos. Esto nos permite aprovechar el poder y la escalabilidad de la nube de AWS, seguridad de los datos, flexibilidad para compartir archivos entre miembros de la organización y nos brinda la oportunidad de explorar el ecosistema de servicios AWS en el futuro.
+Como parte de nuestra iniciativa para conocer los servicios en la nube de AWS ( Amazon Web Service), creamos un bucket en Amazon S3 para alojar este conjunto de datos. Esto nos permite aprovechar el poder y la escalabilidad de la nube de AWS, seguridad de los datos, flexibilidad para compartir archivos entre miembros de la organización y nos brinda la oportunidad de explorar el ecosistema de servicios AWS en el futuro.
 
 ### [Análisis Exploratorio en Python:](Analisis_exploratorio.ipynb)
 Utilizamos Python para llevar a cabo un análisis exploratorio de los datos. Esta fase nos permite descubrir patrones, tendencias y relaciones en la información, lo que nos ayudará a entender mejor el funcionamiento del negocio.
