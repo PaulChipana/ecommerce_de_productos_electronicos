@@ -28,7 +28,7 @@ Como parte de nuestra iniciativa para conocer los servicios en la nube de AWS ( 
 ### [Análisis Exploratorio en Python:](Analisis_exploratorio.ipynb)
 Utilizamos Python para llevar a cabo un análisis exploratorio de los datos. Esta fase nos permite descubrir patrones, tendencias y relaciones en la información, lo que nos ayudará a entender mejor el funcionamiento del negocio.
 
-### [Modelado y Transformación de Datos en MySQL Server:](Modelado_y_Transformación_de_Datos_en_MySQL_server.pdf)
+### [Modelado y Transformación de Datos en MySQL Server:](https://drive.google.com/file/d/1xRXr99lj9PjMVL1Zfsp735WuhnpUi4Fp/view?usp=drive_link)
 Los datos se someten a un proceso de modelado y transformación en MySQL Server. Aquí, aplicamos diversas técnicas para limpiar y preparar los datos para su posterior análisis. Este paso es fundamental para garantizar la calidad de los datos.
 
 ### [Análisis de Datos en MySQL Server: ](https://drive.google.com/file/d/1L8pMLmr9CMX1DoMX4A0DS7evLv7hLKvK/view?usp=sharing)
