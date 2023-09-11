@@ -20,7 +20,7 @@ Finalmente, identificaremos las cinco categorías de productos que generaron las
   
 ## Etapas clave del proceso de análisis de datos de este proyecto:
 ### [Obtención de Datos desde Kaggle:](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store) 
-Comenzamos por obtener un conjunto de datos público desde Kaggle. Esta información actúa como punto de partida para nuestro análisis y contiene datos relevantes para el negocio.
+Comenzamos por obtener un conjunto de datos público desde Kaggle. Esta información actúa como punto de partida para nuestro análisis y contiene datos relevantes del contexto del negocio y estructura del dataset que usaremos para este proyecto.
 
 ### [Almacenamiento de objetos en AWS S3:](Almacenamiento_de_objetos_AWS_S3.md) 
 Como parte de nuestra iniciativa para conocer los servicios de AWS, creamos un bucket en Amazon S3 para alojar este conjunto de datos. Esto nos permite aprovechar el poder y la escalabilidad de la nube de AWS y nos brinda la oportunidad de explorar sus servicios en el futuro.
